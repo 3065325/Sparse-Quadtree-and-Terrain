@@ -1,0 +1,22 @@
+{
+  "name": "sparse-quadtree-and-terrain",
+  "version": "1.0.0",
+  "description": "My attempt at destructible terrain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPA101/Sparse-Quadtree-and-Terrain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NPA101/Sparse-Quadtree-and-Terrain/issues"
+  },
+  "homepage": "https://github.com/NPA101/Sparse-Quadtree-and-Terrain#readme",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
